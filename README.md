@@ -73,5 +73,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 ## 📩 Contato
 
 📧 Email: andre@studionerd.com.br  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-🐙 [GitHub](https://github.com/Andre-StudioNerd/)
+
